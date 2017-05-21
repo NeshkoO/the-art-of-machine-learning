@@ -18,4 +18,4 @@
 
 Цей посібник підтримується автором: Alex Orlovskyi \[[mail](mailto:orlovskyi.alex@gmail.com)\] \[[Telegram](https://t.me/neshkoO)\]
 
-Якщо у вас виникне бажання долучитись до вдосконалення даного посібника, поділитись власними ідеями чи зробити певні правки, ви можете зробити це за адресою даного посібника на сервісі Github: [https://github.com/NeshkoO/info-security-in-databases](https://github.com/NeshkoO/info-security-in-databases)
+Якщо у вас виникне бажання долучитись до вдосконалення даного посібника, поділитись власними ідеями чи зробити певні правки, ви можете зробити це за адресою даного посібника на сервісі Github: [https://github.com/NeshkoO/the-art-of-machine-learning](https://github.com/NeshkoO/the-art-of-machine-learning)
